@@ -1,2 +1,1 @@
-# PicGoRepo
-PicGo Repository
+# PicGo Repository
